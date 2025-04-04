@@ -1,7 +1,7 @@
 {
   "name": "@oldsagesagar/qvium-quants",
   "description": "NPM package for Jupyter Notebook",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Neocosmicx-Quantum/qvium-quants.git"
