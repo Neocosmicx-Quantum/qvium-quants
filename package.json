@@ -3,7 +3,10 @@
   "private": true,
   "description": "NPM package for Jupyter Notebook",
   "version": "1.0.0",
-  "repository": "https://github.com/Neocosmicx-Quantum/qvium-quants",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neocosmicx-Quantum/qvium-quants.git"
+  },
   "engines": {
     "node": ">=20.6.0"
   },
