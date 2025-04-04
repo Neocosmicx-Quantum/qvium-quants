@@ -1,8 +1,9 @@
 {
-  "name": "@qvium/ibm-quantum",
+  "name": "@oldsagesagar/qvium-quants",
   "private": true,
-  "description": "Description of the package here",
-  "version": "0.0.0",
+  "description": "NPM package for Jupyter Notebook",
+  "version": "1.0.0",
+  "repository": "https://github.com/Neocosmicx-Quantum/qvium-quants",
   "engines": {
     "node": ">=20.6.0"
   },
@@ -32,7 +33,7 @@
     "ts-node-maintained": "^10.9.4",
     "typescript": "^5.4.5"
   },
-  "author": "mohitxskull",
+  "author": "NeoCosmicx",
   "license": "MIT",
   "keywords": [],
   "prettier": "@adonisjs/prettier-config",
